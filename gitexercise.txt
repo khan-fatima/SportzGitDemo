@@ -1,1 +1,4 @@
 git exercise 1
+
+creating local repo
+syncing it with remote repo
