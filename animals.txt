@@ -3,8 +3,3 @@ list of animals
 Tiger
 Lion
 Deer
-Goat
-
-
-
-
