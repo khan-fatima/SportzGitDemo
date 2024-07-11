@@ -1,4 +1,4 @@
-git exercise 1
+Git exercise 1
 
 1. creating local repo
 2. syncing it with remote repo
